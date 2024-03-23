@@ -1,6 +1,6 @@
 package com.semillero.solicitudes.services;
 
-import com.semillero.solicitudes.persistence.SolicitudRepository;
+import com.semillero.solicitudes.services.interfaces.SolicitudRepository;
 import com.semillero.solicitudes.persistence.entities.SolicitudEntity;
 import com.semillero.solicitudes.services.interfaces.ISolicitud;
 import org.springframework.beans.factory.annotation.Autowired;
